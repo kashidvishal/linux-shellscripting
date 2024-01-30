@@ -1,0 +1,41 @@
+Mon Nov 20 12:40:23 PM IST 2023
+/home/Kashidvishal2001/myscripts
+total 148
+-rwxr-xr-x. 1 Kashidvishal2001 Kashidvishal2001   31 Nov 12 19:21 01_basic.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  120 Nov 13 10:16 02_comments.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  319 Nov 18 11:43 03_vardemo.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001   99 Nov 18 11:44 04_constant_var.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  485 Nov 18 12:49 05_arrays.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  215 Nov 18 13:04 06_key-val_arr.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  378 Nov 18 13:26 07_string_ops.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  425 Nov 18 13:47 08_use_inter.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  327 Nov 18 14:53 09_arith_ops.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  215 Nov 18 15:11 10_if-else.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  429 Nov 18 15:35 11_elif-demo.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  505 Nov 18 16:20 12_case-demo.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  214 Nov 19 08:40 13_logical-ops.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  151 Nov 19 08:43 14_ternary-ops.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  167 Nov 19 09:14 16_for-with-file.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  142 Nov 19 09:24 17_for-with-array.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  394 Nov 19 09:43 15_forloop1.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  119 Nov 19 10:13 18_while-demo.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  101 Nov 19 10:32 19_until_loop.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001   77 Nov 19 10:34 20_infinite-loop.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001   63 Nov 19 10:35 21_infinite-for-loop.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  126 Nov 19 10:42 22_while-with-file.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  327 Nov 19 12:50 23_while-with-csv.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  715 Nov 19 23:06 24_function-demo.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  196 Nov 19 23:10 25_function-with-arg.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  588 Nov 20 03:12 calculator_pro.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001 1069 Nov 20 03:45 calculator_pro-1.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  269 Nov 20 04:35 26_args.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  151 Nov 20 05:48 27_shift-args.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  606 Nov 20 06:35 28_break.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  189 Nov 20 07:06 29_continue.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  443 Nov 20 07:13 exit-shell.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  191 Nov 20 07:28 30_connectivity-check.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  364 Nov 20 08:47 31_file-exist-check.sh
+drwxr-xr-x. 2 Kashidvishal2001 Kashidvishal2001   53 Nov 20 08:47 scripts
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  101 Nov 20 09:21 32_dice.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001  131 Nov 20 09:27 33_root-usercheck.sh
+-rw-r--r--. 1 Kashidvishal2001 Kashidvishal2001   65 Nov 20 12:41 all_files.txt
